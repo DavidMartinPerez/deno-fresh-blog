@@ -17,3 +17,4 @@ TODO list de mejoras
 - [ ] Crear página 404
 - [ ] Crear página de error global
 - [ ] Añadir linter
+- [ ] Deploy
